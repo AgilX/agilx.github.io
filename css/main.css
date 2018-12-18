@@ -96,7 +96,7 @@ a {
 }
 
 a:hover, a:focus, a:active {
-    color: #fdfdfd;
+    color: black;
 }
 
 a:hover, a:active {
